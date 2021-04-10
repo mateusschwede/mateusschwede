@@ -1,5 +1,3 @@
 # Olá, sou Mateus Schwede 👋
-### Criador do site UB Social.ca
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusschwede&langs_count=3&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Meu status](https://github-readme-stats.vercel.app/api?username=mateusschwede&show_icons=true&theme=tokyonight)
+Sou formado em Análise e Desenvolvimento de Sistemas. Sou autor do site UB Social.ca, onde compartilho meus resumos de tecnologias, artigos e projetos para inspiração de uso no dia a dia de ambiente de trabalho. Verifique abaixo meus projetos e, ao lado, meus links de contato. Fico à disposição!
