@@ -1,2 +1,2 @@
 # Mateus Schwede
-Criador do UB Social, no [site](https://ubsocial.github.io) e [YouTube](https://youtube.com/@ubsocialsite?si=aU04NxXYgwS_t9DU). Professor na [Udemy](https://www.udemy.com/user/mateus-schwede) e [Workover Academy](https://workover.com.br/cursos/1801/curso-de-linux).
+Criador do UB Social, no [site](https://ubsocial.github.io) e [YouTube](https://youtube.com/@ubsocialsite?si=aU04NxXYgwS_t9DU). Professor na [The Open University](https://www.open.edu/openlearncreate/course/view.php?id=17221), [Udemy](https://www.udemy.com/user/mateus-schwede) e [Workover Academy](https://workover.com.br/cursos/1801/curso-de-linux).
